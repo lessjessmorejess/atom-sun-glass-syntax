@@ -38,7 +38,7 @@
   "name": "atom-sun-glass-syntax",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/whalemc/atom-sun-glass-syntax.git"
+    "url": "https://github.com/whalemc/atom-sun-glass-syntax.git"
   },
   "theme": "syntax",
   "version": "0.1.2"
