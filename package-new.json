@@ -1,0 +1,22 @@
+{
+  "name": "atom-sun-glass-syntax",
+  "version": "1.0.3",
+  "description": "Syntax to compliment sunglass ui",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stephless/atom-sun-glass-syntax.git"
+  },
+  "keywords": [
+    "syntax",
+    "atom",
+    "ui",
+    "sunglass"
+  ],
+  "author": "stephless",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stephless/atom-sun-glass-syntax/issues"
+  },
+  "homepage": "https://github.com/stephless/atom-sun-glass-syntax#readme"
+}
