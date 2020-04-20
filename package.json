@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/stephless/atom-sun-glass-syntax.git"
+    "url": "https://github.com/stephless/atom-sun-glass-syntax.git"
   },
   "keywords": [
     "syntax",
