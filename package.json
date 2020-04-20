@@ -5,15 +5,23 @@
   "_integrity": "sha512-GTTMF9ztu21fhCnF17NE2JIGlgK4Pb7KHJE0EWASROxYYZ4MLM1LP1DRc2whePCJS8Qe//pkeopRsLGNbk0DGw==",
   "_location": "/atom-sun-glass-syntax",
   "_phantomChildren": {},
-
+  "_requested": {
+    "type": "remote",
+    "raw": "https://www.atom.io/api/packages/smooth-pastels-syntax/versions/0.1.1/tarball",
+    "rawSpec": "https://www.atom.io/api/packages/smooth-pastels-syntax/versions/0.1.1/tarball",
+    "saveSpec": "https://www.atom.io/api/packages/smooth-pastels-syntax/versions/0.1.1/tarball",
+    "fetchSpec": "https://www.atom.io/api/packages/smooth-pastels-syntax/versions/0.1.1/tarball"
+  },
   "_requiredBy": [
     "#USER",
     "/"
   ],
+  "_resolved": "https://www.atom.io/api/packages/smooth-pastels-syntax/versions/0.1.1/tarball",
   "_shasum": "0621ffad75049eb86446580b8009b01980f4294a",
+  "_spec": "https://www.atom.io/api/packages/smooth-pastels-syntax/versions/0.1.1/tarball",
   "_where": "/private/var/folders/b3/3fm0zw3d7cq4l2pdm7ylyrj00000gp/T/apm-install-dir-119626-39424-1wmj3pr.kw8n",
   "bugs": {
-    "url": "https://github.com/whalemc/atom-sun-glass-syntax/issues"
+    "url": "https://github.com/whalemc/atom-sun-glass-syntaxissues"
   },
   "bundleDependencies": false,
   "deprecated": false,
