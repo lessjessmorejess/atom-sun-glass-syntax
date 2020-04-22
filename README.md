@@ -1,3 +1,4 @@
-# sun glass theme
+#Sun Glass Syntax
+A syntax to go along with[Sung Glass UI](https://atom.io/themes/atom-sun-glass-ui)
 
-A syntax theme to be paired with Sun Glass UI [https://atom.io/themes/atom-sun-glass-ui]
+![example](assets/example.png)
